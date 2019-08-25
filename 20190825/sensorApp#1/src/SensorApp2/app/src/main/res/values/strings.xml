@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensor Information List</string>
+    <string name="sensor_name">Sensor Name:</string>
+    <string name="manufacture_name">Manufacture Name:</string>
+    <string name="version">Version:</string>
+    <string name="power_consumption">Power Consumption:</string>
+    <string name="maximum_range">Maximum Range:</string>
+    <string name="minimum_delay">Minimum delay:</string>
+    <string name="maximum_delay">Maximum delay:</string>
+    <string name="copy">Copy</string>
+    <string name="copy_ok">Copy succeeded</string>
+    <string name="copy_ng">Copy failed</string>
+</resources>
