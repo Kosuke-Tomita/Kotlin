@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">センサー情報一覧</string>
+    <string name="manufacture_name">センサー:</string>
+    <string name="maximum_delay">最大遅延:</string>
+    <string name="maximum_range">最大レンジ:</string>
+    <string name="minimum_delay">最小遅延:</string>
+    <string name="power_consumption">消費電力:</string>
+    <string name="sensor_name">センサー名:</string>
+    <string name="version">バージョン:</string>
+    <string name="copy">コピー</string>
+    <string name="copy_ok">コピー成功</string>
+    <string name="copy_ng">コピー失敗</string>
+</resources>
